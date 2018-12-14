@@ -1,6 +1,9 @@
 For all the products, the same approach is adopted and described in a jupyter-notebook with the corresponding Julia code:
 
 ## Data reading
+
+All data is available on https://dox.ulg.ac.be/index.php/s/EvIwSvTwhtJ6Tmu /benthos_fish_data/.
+
 The text files are read using the `readdlm` function (reading of files where columns are separated by a delimiter, a comma in this case).
 In most of the notebooks, the reading functions (as well as the plotting and writing functions) are defined in the corresponding `src` file.
 
