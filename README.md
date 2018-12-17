@@ -1,3 +1,5 @@
+*Product created by Olivier Beauchard, DIVA interpolations by Charles Troupin*
+
 For all the products, the same approach is adopted and described in a jupyter-notebook with the corresponding Julia code:
 
 ## Data reading
