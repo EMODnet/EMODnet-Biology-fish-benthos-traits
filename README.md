@@ -1,5 +1,12 @@
 *Product created by Olivier Beauchard, DIVA interpolations by Charles Troupin*
 
+This is the Github repository of the EMODnet Biology products described here:
+
+http://www.emodnet-biology.eu/distribution-fish-living-modes-european-seas
+
+http://www.emodnet-biology.eu/distribution-benthic-macroinvertebrate-living-modes-european-seas
+
+
 For all the products, the same approach is adopted and described in a jupyter-notebook with the corresponding Julia code:
 
 ## Data reading
