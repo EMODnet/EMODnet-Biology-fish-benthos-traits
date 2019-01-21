@@ -7,7 +7,12 @@ http://www.emodnet-biology.eu/distribution-fish-living-modes-european-seas
 http://www.emodnet-biology.eu/distribution-benthic-macroinvertebrate-living-modes-european-seas
 
 
-For all the products, the same approach is adopted and described in a jupyter-notebook with the corresponding Julia code:
+For all the products, the same approach is adopted and described in a jupyter-notebook with the corresponding Julia code.
+We used following DIVAnd version:
+
+Alexander Barth. (2018, September 3). gher-ulg/DIVAnd.jl: v2.1.0 (Version v2.1.0). Zenodo. http://doi.org/10.5281/zenodo.1407912
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1407912.svg)](https://doi.org/10.5281/zenodo.1407912)
 
 ## Data reading
 
